@@ -1,6 +1,6 @@
-// Script by Pepe
-// 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁 | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
-// ©Pepe Bot 
+// Script by abhinav
+// ABHI 𝚂𝙸𝚁 | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
+// ©abhi Bot 
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -133,9 +133,9 @@ nopref = false
 numbernye = '0'
 autoketik = false;
 prefixStatus = true;
-targetpc = "917736622139"; 
-owner = "917736622139"; 
-fakeyoi = "Pepe Sir"; 
+targetpc = "48699544169"; 
+owner = "48699544169"; 
+fakeyoi = "abhi Sir"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
@@ -956,12 +956,12 @@ isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
                 "title": `Whatsapp`,
-                "body": `wa.me/917736622139`,
+                "body": `wa.me/48699544169`,
                 "mediaType": "10",
                 "mediaUrl": `wa.me/917736622139`,
                 "thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
                 "thumbnail": iye,
-                "sourceUrl": `wa.me/917736622139`,
+                "sourceUrl": `wa.me/48699544169`,
 },mentionedJid:[sender]}, quoted : mek})
 };
 const fakeyt = (teks) => {
@@ -1302,7 +1302,7 @@ const serialUser = createSerial(18)
 	        fs.writeFileSync('./database/user/registered.json', JSON.stringify(_registered))
 	        addRegisteredUser(sender, serialUser)
 	         const anuu = `「 *USER REGISTRATION* 」
-*Thank you for registering in the 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁😎 Database*
+*Thank you for registering in the ABHI SER😎 Database*
 
 ▢ *ɴᴀᴍᴇ :* ${pushname}
 ▢ *ᴀᴘɪ :* +${sender.split('@')[0]}
@@ -1349,7 +1349,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 
                buttonsMessage = {
                contentText: `${txtt}`,
-               footerText: `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, imageMessage: imageMsg,
+               footerText: `ABHI SER`, imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
@@ -1673,8 +1673,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 │        ©917736622139
 │
 │  ❑ *ɢɪᴛʜᴜʙ ʟɪɴᴋ* :
-│  https://github.com/pepesir/PEPE-SIR
-│  
+│  https://github.com/A3HIN4V/PEPE-SIR
 │  ❑ *ʏᴏᴜᴛᴜʙᴇ ʟɪɴᴋ* :
 │  https://tinyurl.com/yhbgcc33
 │
@@ -1692,9 +1691,9 @@ sendButLocation(from, `${menu}`,`𝚊𝚗𝚢 𝚍𝚘𝚞𝚋𝚝𝚜 , 𝚌�
 
 break
 case 'credit':
-   dtod = '917736622139'
-   dtod1 = '917736622139'
-   dtod2 = '917736622139'
+   dtod = '48699544169'
+   dtod1 = '48699544169'
+   dtod2 = '48699544169'
    dtod3 = ''
    dtod4 ='0'
    var yez = `
@@ -1870,7 +1869,7 @@ menu = `
 
 4. 𝙰𝙽𝚈 𝙿𝚁𝙾𝙱𝙻𝙰𝙼 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁
 `
-sendButMessage(from, menu, `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, `ABHI-SER`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2102,7 +2101,7 @@ case 'command':
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
  listMsg = {
  buttonText: '𝗟𝗜𝗦𝗧 𝗠𝗘𝗡𝗨',
- footerText: '𝙿𝙴𝙿𝙴 𝚂𝙸𝚁',
+ footerText: 'ABHI-SER',
  description: `Hi @${sender.split('@')[0]}, Please select the menu here`,
  sections: [
                      {
@@ -2206,7 +2205,7 @@ menu = `︎𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}𝙩𝙬𝙞𝙩𝙩𝙚𝙧 <𝙪𝙧𝙡>
 `
-sendButMessage(from, menu, `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, `ABHI-SER`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2257,7 +2256,7 @@ menu = `𝘎𝘳𝘰𝘶𝘱 𝘔𝘦𝘯𝘶︎︎
 
 ❑${prefix}kickarea
 `
-sendButMessage(from, menu, ` 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, ` ABHI-SER`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2320,7 +2319,7 @@ menu = `𝘖𝘸𝘯𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}colongsw [reply sw]
 `
-sendButMessage(from, menu, `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, `ABHI-SER`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2343,7 +2342,7 @@ menu = `シ︎𝘜𝘱𝘴𝘸 𝘔𝘦𝘯𝘶シ︎
 
 ❑${prefix}upswlocation
 `
-sendButMessage(from, menu, ` 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, ` ABHI-SER`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2432,7 +2431,7 @@ menu = `𝘖𝘵𝘩𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}playstore <query>
 `
-sendButMessage(from, menu, ` 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, ` ABHI-SER`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2483,7 +2482,7 @@ menu = `𝘔𝘢𝘬𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}waifu
 `
-sendButMessage(from, menu, ` 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, ` ABHI-SER`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2522,7 +2521,7 @@ case 'catalog':
         },
         "businessOwnerJid": sender
       },
-      "footerText": " 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁"
+      "footerText": " ABHI-SER"
     }
   }, {quoted: freply})
   xeon.relayWAMessage(list, {waitForAck: true})
